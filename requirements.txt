@@ -1,0 +1,9 @@
+selenium
+SpeechRecognition
+PyAudio
+langchain
+langchain_community
+langchain_core
+--upgrade google-cloud-texttospeech
+ipython
+pydub
